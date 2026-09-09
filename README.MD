@@ -47,7 +47,7 @@ I am a software engineer focused on building secure, efficient, and scalable sys
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sujalkathait&bg_color=transparent&hide_border=true&color=3776AB&line=3776AB&point=3776AB" alt="Sujal's Contribution Graph" />
 </div>
 
-## 📫 Contact
+## 🔗 Connect with me
 
-Feel free to reach out for collaborations, discussions on systems design, or anything tech-related!
 - **GitHub:** [@Sujalkathait](https://github.com/Sujalkathait)
+- **Email:** [sujalkathait93@gmail.com](mailto:sujalkathait93@gmail.com)
