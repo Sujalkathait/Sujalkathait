@@ -4,7 +4,7 @@ I am a software engineer focused on building secure, efficient, and scalable sys
 
 ## 🛠️ About & Skills
 
-**Interests:** Cybersecurity • C++ • Systems Programming • Low-Level Design • Software Engineering • AI • Networking
+**Interests:** Cybersecurity • C++ • Systems Programming • System Design • Software Engineering • AI • Networking
 
 **Technologies & Tools:**
 
