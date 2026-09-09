@@ -32,19 +32,19 @@ I am a software engineer focused on building secure, efficient, and scalable sys
 - **Outcome:** A highly efficient learning tool capable of step-by-step code tracing, marks-based exam answers, and memory visualization with zero API costs.
 
 ### 3. [Movie Ticket Booking System](https://github.com/Sujalkathait/MovieTicketBookingSystem)
-- **Problem:** Understanding and demonstrating core object-oriented and low-level design principles in a real-world scenario.
+- **Problem:** Understanding and demonstrating core object-oriented and system design principles in a real-world scenario.
 - **Approach:** Developed a robust, in-memory C++ console application mimicking a real cinema. Implemented modular architecture with separate services for pricing, polymorphic payments, seating layouts, and booking management.
 - **Tech Stack:** ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-- **Outcome:** A crash-resistant, cleanly architected system showcasing strong LLD principles, robust error handling, and clean code separation.
+- **Outcome:** A crash-resistant, cleanly architected system showcasing strong system design principles, robust error handling, and clean code separation.
 
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sujalkathait&show_icons=true&hide_border=true&theme=transparent" alt="Sujal's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sujalkathait&show_icons=true&hide_border=true&theme=transparent" alt="Sujal's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sujalkathait&hide_border=true&theme=transparent" alt="Sujal's GitHub Streak" />
   <br/>
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sujalkathait&bg_color=transparent&hide_border=true&color=3776AB&line=3776AB&point=3776AB" alt="Sujal's Contribution Graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=Sujalkathait&bg_color=transparent&hide_border=true&color=3776AB&line=3776AB&point=3776AB" alt="Sujal's Contribution Graph" />
 </div>
 
 ## 🔗 Connect with me
