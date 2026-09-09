@@ -44,7 +44,7 @@ I am a software engineer focused on building secure, efficient, and scalable sys
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sujalkathait&hide_border=true&theme=transparent" alt="Sujal's GitHub Streak" />
   <br/>
   <br/>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Sujalkathait&bg_color=transparent&hide_border=true&color=3776AB&line=3776AB&point=3776AB" alt="Sujal's Contribution Graph" />
+  <img src="https://ghchart.rshah.org/3776AB/Sujalkathait" alt="Sujal's Contribution Graph" />
 </div>
 
 ## 🔗 Connect with me
